@@ -1,0 +1,25 @@
+.App {
+
+  width: 20%;
+  height: 60%;
+  margin-right: auto;
+  margin-left:auto;
+  margin-top: 6%;
+  text-align: center;
+  background-color: white;
+  border-style: double
+ }
+
+
+html {
+
+  background-image: url("fond-ecran1.jpg");
+}
+
+
+.profilepic {
+
+  border-radius: 20%;
+
+}
+
